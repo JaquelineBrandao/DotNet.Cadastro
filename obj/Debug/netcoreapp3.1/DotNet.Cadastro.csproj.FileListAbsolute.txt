@@ -1,0 +1,13 @@
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\bin\Debug\netcoreapp3.1\DotNet.Cadastro.exe
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\bin\Debug\netcoreapp3.1\DotNet.Cadastro.deps.json
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\bin\Debug\netcoreapp3.1\DotNet.Cadastro.runtimeconfig.json
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\bin\Debug\netcoreapp3.1\DotNet.Cadastro.runtimeconfig.dev.json
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\bin\Debug\netcoreapp3.1\DotNet.Cadastro.dll
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\bin\Debug\netcoreapp3.1\DotNet.Cadastro.pdb
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.csprojAssemblyReference.cache
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.AssemblyInfoInputs.cache
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.AssemblyInfo.cs
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.dll
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.pdb
+C:\Users\55719\Documents\Cursos\Cursos - Digital Innovation One\DotNet.Cadastro\obj\Debug\netcoreapp3.1\DotNet.Cadastro.genruntimeconfig.cache
